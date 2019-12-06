@@ -6,6 +6,5 @@
   ],
   "repository": "https://github.com/k.kimura@playful-raccoon-4pc5fx.com/intro-to-heroku",
   "addons": [
-    "heroku-postgresql"
   ]
 }
